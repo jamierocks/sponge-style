@@ -1,0 +1,6 @@
+{
+  "name": "sponge-style",
+  "version": "0.0.1-indev",
+  "description": "Shared code between the Sponge web properties.",
+  "license": "MIT"
+}
