@@ -2,5 +2,16 @@
   "name": "sponge-style",
   "version": "0.0.1-indev",
   "description": "Shared code between the Sponge web properties.",
-  "license": "MIT"
+  "license": "MIT",
+  "style": "dist/css/spongestyle.css",
+  "sass": "scss/spongestyle.scss",
+  "main": "dist/js/spongestyle",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  }
 }
